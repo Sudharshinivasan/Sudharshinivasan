@@ -62,11 +62,11 @@ Customer Behavior Trends:
 ### Snapshots of the Dashboard
 
 📍 Overview Page
- ![Image](https://github.com/user-attachments/assets/9cc55c07-8223-4ac0-89ee-b7dfb1898ceb)
+ ![Image](dashboard1.jpg)
 📍 Media Performance
-  ![Image](https://github.com/user-attachments/assets/8c221b26-b507-46eb-b4f8-36a10ca2ac0d)
+  ![Image](dashboard2.jpg)
 📍 Consumer Insights
-![Image](https://github.com/user-attachments/assets/6e7b017f-f696-4c37-89d6-3834c8a97ef1)
+![Image](dashboard3.jpg)
 
 ________________________________________
 ### Conclusion
